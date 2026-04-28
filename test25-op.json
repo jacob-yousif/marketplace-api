@@ -1,0 +1,72 @@
+[
+    {
+        "id": 5,
+        "name": "Chris Hemsworth",
+        "user_name": "noobmaster",
+        "balance": "100.00",
+        "items": [
+            {
+                "id": 2,
+                "name": "Mjolnir - The Hammer of the Gods",
+                "price": "95.00",
+                "owner": "noobmaster"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Paul Rudd",
+        "user_name": "antpaul",
+        "balance": "45.00",
+        "items": [
+            {
+                "id": 1,
+                "name": "Vibranium Shield (Lightly Used.)",
+                "price": "55.00",
+                "owner": "antpaul"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Steve Rogers",
+        "user_name": "steve123",
+        "balance": "65.00",
+        "items": [
+            {
+                "id": 5,
+                "name": "Mindstone - The rarest stone on earth",
+                "price": "90.00",
+                "owner": "steve123"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Paul Bettany",
+        "user_name": "thevision",
+        "balance": "70.00",
+        "items": [
+            {
+                "id": 3,
+                "name": "Jarvis - A sophisticated AI",
+                "price": "120.00",
+                "owner": "thevision"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Robert Downey Jr.",
+        "user_name": "iamironman",
+        "balance": "220.00",
+        "items": [
+            {
+                "id": 4,
+                "name": "Mark XLIV - Hulkbuste",
+                "price": "80.00",
+                "owner": "iamironman"
+            }
+        ]
+    }
+]
